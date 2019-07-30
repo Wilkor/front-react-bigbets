@@ -1,0 +1,12 @@
+#grafics{
+
+  display:flex;
+  justify-content:space-around;
+  margin-top:10px;
+  flex-wrap: wrap;
+}
+#title{
+ display:flex;  
+ margin-top:10px;
+ margin-left:650px;
+}
